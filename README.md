@@ -52,7 +52,6 @@ Ele apresenta um design moderno e uma estrutura responsiva, garantindo uma ótim
  
  ## 🔗 Acesse o Projeto 
  
- 📂 **Repositório no GitHub:** [Clique aqui](https://bit.ly/githubLandingpagebarber) <br/>
  🌎 **Deploy Online:** [Clique aqui](https://bit.ly/landingpagebarber) 
 
 ---
